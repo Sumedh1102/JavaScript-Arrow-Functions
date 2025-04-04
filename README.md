@@ -21,7 +21,7 @@ This repository contains examples of JavaScript **arrow functions**, demonstrati
 2. Open `index.js` in a code editor.  
 3. Run the script using:  
    ```bash
-   node index.js
+   node Arrow.js
    ```  
 4. Check the output in the console.  
 
